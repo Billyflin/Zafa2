@@ -43,11 +43,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.432"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName"
+        app:layout_constraintTop_toBottomOf="@+id/labelUser"
         app:layout_constraintVertical_bias="0.019" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/labelUser"
         android:layout_width="337dp"
         android:layout_height="47dp"
         android:ems="10"
